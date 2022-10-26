@@ -3,3 +3,6 @@
 #EXTINF:-1 ,Xtreme TV
 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sin categoría", CINE +
+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
