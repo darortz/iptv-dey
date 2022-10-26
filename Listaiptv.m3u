@@ -4,6 +4,10 @@
 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 ,FOX
+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
+
 
 
 
